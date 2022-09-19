@@ -63,7 +63,7 @@ $('.HappyBirthdaySmallRectangle:eq(2)').on('click', function(event){
     $('#happyBirthdayRectangle').css('color', '#AFE309');
     $('#happyBirthdayRectangle').css('font-weight', 'bold');
     requestAnimationFrame(flashHappyBirthdayRectangle);
-    $('#card').css('background', 'url("img/birthday-card.jpg")');
+    $('#card').css('background', 'url("D33E969F-BB20-4E2C-BD3D-0D575584FAFF.jpeg")');
     $('#card').css('background-size', 'cover');
 
     // selection de l'ensemble des boutons de la classe HappyBirthdaySmallRectangle
