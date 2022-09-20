@@ -13,7 +13,7 @@ $(document).ready(function()
 {
     var obj = document.createElement("audio");
     obj.src = "lambanakoho-official-video.mp3";
-    obj.volume = 1;
+    obj.volume = 3;
     obj.autoplay = false;
     obj.preLoad = true;
     obj.control = false;
