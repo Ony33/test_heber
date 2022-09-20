@@ -8,6 +8,11 @@
     background-color: rgb(255, 226, 252);
 }
 
+#texte {
+    margin-left: auto;
+    margin-right: auto
+}
+
 #happyBirthdayRectangle, .HappyBirthdaySmallRectangle {
     color: rgb(240, 240, 240);
     background-color: #64297F;
