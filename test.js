@@ -12,7 +12,7 @@ var happyBirthdaySmallRectangle = $('.HappyBirthdaySmallRectangle');
 $(document).ready(function()
 {
     var obj = document.createElement("audio");
-    obj.src = "sounds/party_horn-Mike_Koenig.mp3";
+    obj.src = "lambanakoho-official-video.mp3";
     obj.volume = 1;
     obj.autoplay = false;
     obj.preLoad = true;
